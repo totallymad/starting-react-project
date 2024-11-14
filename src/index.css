@@ -84,3 +84,19 @@ main h2 {
 #tab-content code {
   font-size: 1rem;
 }
+
+#alert {
+  margin: auto;
+  width: 50%;
+  background: #333;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding: 10px;
+}
+
+#delete {
+  display: block;
+  margin: auto;
+  margin-bottom: 10px;
+}
