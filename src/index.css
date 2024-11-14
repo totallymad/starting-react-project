@@ -100,3 +100,11 @@ main h2 {
   margin: auto;
   margin-bottom: 10px;
 }
+
+.style-me {
+  font-size: 30px;
+}
+
+.style-me.active {
+  color: aqua;
+}
